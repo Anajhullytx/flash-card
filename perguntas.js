@@ -1,20 +1,20 @@
 criaCartao(
     'Geografia',
-    'Capital do Brasil?',
+    'Qual a cidade mais bela do Brasil?',
     'Qual cidade bela do Brasil?',
     'A cidade bela do Brasil se chama Curitiba'
 )
 
 criaCartao(
     'Geografia',
-    'Capital do Brasil?',
+    'Qual a cidade mais bela do Brasil?',
     'Qual cidade bela do Brasil?',
     'A cidade bela do Brasil se chama Curitiba'
 )
 
 criaCartao(
     'Geografia',
-    'Capital do Brasil?',
+    'Qual a cidade mais bela do Brasil?',
     'Qual cidade bela do Brasil?',
     'A cidade bela do Brasil se chama Curitiba',
 )
